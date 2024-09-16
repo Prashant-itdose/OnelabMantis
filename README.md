@@ -7,7 +7,7 @@
 <h1 align="center">ONELAB ITDOSE</h1>
 
 <p>
-  This repository is a form of CRM,MANTIS,HR SYSTEM BY ITDOSE. 
+  This repository is a code of CRM,MANTIS,HR SYSTEM BY ITDOSE. 
 </p>
 <br>
 
