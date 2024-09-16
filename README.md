@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">HIS - Hospital Information System</h1>
+<h1 align="center">ONELAB ITDOSE</h1>
 
 <p>
-  This repository is a form of original HIS project. 
+  This repository is a form of CRM,MANTIS,HR SYSTEM BY ITDOSE. 
 </p>
 <br>
 
@@ -25,7 +25,7 @@
 
 ## Demo
 
-Online demo: https://hms-web-app-nu.vercel.app/
+Online demo:http://onelab.itdoseinfo.com/login
 
 To login website use:
 
