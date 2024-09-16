@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">HIS - Hospital Information System</h1>
+<h1 align="center">ONELAB ITDOSE</h1>
 
 <p>
   This repository is a form of CRM,MANTIS,HR SYSTEM BY ITDOSE. 
